@@ -16,7 +16,7 @@
     flex-direction: column; */
 }
 
-.register-wrapper form input {
+ form input {
     display: inline-block;
     width: 100%;
     padding: 0 20px;
